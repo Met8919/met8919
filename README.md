@@ -1,3 +1,7 @@
+<!-- # About Me -->
+
+
+
 ## My Github Stats
 [![Met8919's GitHub stats](https://github-readme-stats.vercel.app/api?username=met8919&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](#)
 
@@ -35,6 +39,7 @@
     <tr>
       <td style='text-align: center'>
       <img src='https://camo.githubusercontent.com/6f71b1c0253b2ec76da45564957313ceb375105949c019632c3bc413ef3b431c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333363739313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d7768697465' /><br><img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' />
+      <br><img src='https://img.shields.io/badge/Sqlalchemy-52B0E7?style=for-the-badge&logo=Sqlalchemy&logoColor=black' />
       </td>
       <td>
         <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
